@@ -29,7 +29,7 @@ main{
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 627px;
+    height: 620px;
     width: 311px;
     background: url(..//imagens/frame-iphone.png) no-repeat;
     
@@ -43,7 +43,8 @@ main{
     height: 471px;
 }
 #redes-sociais{
-    text-align: right;
+    text-align:end;
+    padding: 10px;
 }
 #redes-sociais img{
     width: 50px;
